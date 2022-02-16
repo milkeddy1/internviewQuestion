@@ -1,2 +1,0 @@
-# internviewQuestion
-Created with CodeSandbox

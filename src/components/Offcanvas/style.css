@@ -1,0 +1,10 @@
+.offcanvas {
+  width: 0px;
+  background-color: #ffed97;
+  /* display: none; */
+}
+
+.offcanvas-active {
+  width: 200px;
+  background-color: #ffed97;
+}
